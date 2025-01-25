@@ -1,0 +1,46 @@
+#h{
+   color: #efefed;
+    size: 50px;
+    text-align: center;
+}
+
+#form{
+    margin-top: 100px;
+   text-align: center;
+   color: aliceblue;
+   margin-bottom: 100px;
+   
+}
+#fname,#lname,#email,#username,#password,#date{
+    font-size: medium;    
+    margin-bottom: 30px;
+    height: 25px;
+    width: 200px;
+    font-family: 'Times New Roman', serif;
+   color: rgb(0, 35, 65);
+background-color: rgb(227, 227, 236);
+}
+
+#man,#woman{
+    font-size: medium;    
+    margin-bottom: 30px;
+    margin-right: 20px;
+    font-family: 'Times New Roman', serif;
+   color: rgb(0, 35, 65);
+background-color: rgb(227, 227, 236);
+}
+    
+#com{
+    font-size: medium;    
+
+    font-family: 'Times New Roman', serif;
+    color: rgb(0, 35, 65);
+ background-color: rgb(227, 227, 236);
+}
+
+#but{
+    margin-top: 30px;
+    font-family: 'Times New Roman', serif;
+    color: rgb(0, 35, 65);
+ background-color: rgb(227, 227, 236);
+}
