@@ -1,10 +1,35 @@
-#container{
-display: flex;
-
-}
 #h1{
     text-align: center;
+    font-size: 50px;
 }
-#list{
+
+.cont{
+display: flex;   
+flex-direction: row; 
+align-items:center ;
+width: 100%;
+padding-bottom: 50px;
+}
+
+.text{
+    font-size: large;
+width: 50%;
+}
+
+.img{
+   width: 50%;
+
+}
+
+#p11,#p21{
+    width: 100%;
+}
+#k{
+    display: flex;   
+    flex-direction: row; 
+}
+#p12,#p13,#p22,#p23{
+  padding-left: 2px; 
+width: 50%;
 
 }
