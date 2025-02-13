@@ -1,3 +1,12 @@
+body{
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
+#puc{
+    background-color: rgb(201, 170, 136);
+}
+
 #h1{
     text-align: center;
     font-size: 50px;
@@ -31,5 +40,16 @@ width: 50%;
 #p12,#p13,#p22,#p23{
   padding-left: 2px; 
 width: 50%;
+
+}
+
+#nav{
+    text-align: center;
+    background-color: rgba(169, 169, 169, 0.575);
+}
+
+#footer{
+    text-align: center;
+    background-color: rgba(169, 169, 169, 0.5);
 
 }
